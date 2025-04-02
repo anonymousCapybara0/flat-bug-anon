@@ -32,7 +32,7 @@ micromamba install flat-bug -c conda-forge
 #### Source/development
 Or a development version can be installed from source by cloning this repository:
 ```sh
-git clone git@github.com:anonymousCapybara/flat-bug-anon.git
+git clone git@github.com:anonymousCapybara0/flat-bug-anon.git
 cd flat-bug-anon
 pip install -e .
 ```

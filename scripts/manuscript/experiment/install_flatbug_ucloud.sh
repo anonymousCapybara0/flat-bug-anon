@@ -73,7 +73,7 @@ echo "($(time_str)) Finished installing R."
 ## Install PyTorch and Flat-Bug
 echo "($(time_str)) Installing flat-bug..."
 # Clone flat-bug repository
-if ! git clone git@github.com:anonymousCapybara/flat-bug-anon.git; then
+if ! git clone git@github.com:anonymousCapybara0/flat-bug-anon.git; then
     echo "Failed to clone repository"
     exit 1
 fi

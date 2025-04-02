@@ -22,7 +22,7 @@ on the login-node.
 git config --global user.name <USER_NAME>
 git config --global user.email <EMAIL>
 # Clone repository
-git clone git@github.com:anonymousCapybara/flat-bug-anon.git
+git clone git@github.com:anonymousCapybara0/flat-bug-anon.git
 cd flat-bug-anon
 ```
 
