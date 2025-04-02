@@ -3,10 +3,10 @@ requires = ["setuptools>=68.2.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "flat-bug"
+name = "flat-bug-anon"
 version = "0.3.0"
 authors = [
-  {name="REDACTED", email="REDACTED"},
+  {name="REDACTED", email="anon.capybara.0@gmail.com"},
   {name="REDACTED"},
 ]
 description = "A General Method for Detection and Segmentation of Terrestrial Arthropods in Images"
