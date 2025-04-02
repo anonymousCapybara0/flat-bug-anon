@@ -20,10 +20,10 @@ on the login-node.
 ```bash
 # Git setup
 git config --global user.name <USER_NAME>
-git config --global user.emauil <EMAIL>
+git config --global user.email <EMAIL>
 # Clone repository
 git clone git@github.com:anonymousCapybara/flat-bug-anon.git
-cd flat-bug
+cd flat-bug-anon
 ```
 
 ## Create a base virtual environment

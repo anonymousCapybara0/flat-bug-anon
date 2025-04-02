@@ -80,8 +80,7 @@ fi
 # Install PyTorch (using 2.3.1 for better compatibility)
 pip install "torch>=2.3.1" torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 # Install flat-bug from source
-cd flat-bug
-git checkout dev_experiments
+cd flat-bug-anon
 pip install -e .
 pip install submitit
 echo "($(time_str)) Finished installing flat-bug."
