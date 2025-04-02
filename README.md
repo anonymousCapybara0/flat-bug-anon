@@ -1,4 +1,4 @@
-_**ANONYMIZED FLATBUG REPOSITORY**_
+_**ANONYMIZED FLATBUG REPOSITORY: DO NOT USE UNLESS REVIEWING MANUSCRIPT**_ 
 # <code> flatbug </code>
 ### **<center><ins>A General Method for Detection and Segmentation of Terrestrial Arthropods in Images</ins></center>**
 
